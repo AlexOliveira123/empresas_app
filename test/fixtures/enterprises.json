@@ -1,0 +1,64 @@
+{
+    "enterprises": [
+        {
+            "id": 12,
+            "email_enterprise": null,
+            "facebook": null,
+            "twitter": null,
+            "linkedin": null,
+            "phone": null,
+            "own_enterprise": false,
+            "enterprise_name": "Guild",
+            "photo": "/uploads/enterprise/photo/12/240.jpeg",
+            "description": "Guild is a private professional messaging app that meets new standards, yet is as easy to use as WhatsApp. Advertising free and GDPR compliant.",
+            "city": "London",
+            "country": "UK",
+            "value": 0,
+            "share_price": 5000.0,
+            "enterprise_type": {
+                "id": 11,
+                "enterprise_type_name": "Software"
+            }
+        },
+        {
+            "id": 13,
+            "email_enterprise": null,
+            "facebook": null,
+            "twitter": null,
+            "linkedin": null,
+            "phone": null,
+            "own_enterprise": false,
+            "enterprise_name": "Wired Lion",
+            "photo": "/uploads/enterprise/photo/13/240.jpeg",
+            "description": "Creating awesome experiencing by empowering festivals, conferences and sporting events to sell products and services to their customers before, during and after events. Currently working with customers in 13 countries on 5 continents.",
+            "city": "London",
+            "country": "UK",
+            "value": 0,
+            "share_price": 5000.0,
+            "enterprise_type": {
+                "id": 11,
+                "enterprise_type_name": "Software"
+            }
+        },
+        {
+            "id": 14,
+            "email_enterprise": null,
+            "facebook": null,
+            "twitter": null,
+            "linkedin": null,
+            "phone": null,
+            "own_enterprise": false,
+            "enterprise_name": "Halo Active Technologies ",
+            "photo": "/uploads/enterprise/photo/14/240.jpeg",
+            "description": "The company’s founder, Jullian Preston-Powers, lost a friend to Traumatic Brain Injury (TBI) after a motorbike accident in Greece. Doctors told Jullian that had his friend’s brain not swollen and had recovery been faster, he might well have survived.\n\nThe experience moved Jullian into action. He found out that most existing helmets use EPS foam inner linings to absorb the impact and that 87% of all deaths in accidents occur while wearing protective headgear. In other words, passive protective headgear is ineffective and he invented the Halo brain cooling helmet system.\n\n",
+            "city": "Hove",
+            "country": "UK",
+            "value": 0,
+            "share_price": 5000.0,
+            "enterprise_type": {
+                "id": 24,
+                "enterprise_type_name": "Transport"
+            }
+        }
+    ]
+}
